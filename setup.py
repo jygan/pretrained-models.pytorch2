@@ -64,7 +64,7 @@ setup(
     #
     # This field corresponds to the "Home-Page" metadata field:
     # https://packaging.python.org/specifications/core-metadata/#home-page-optional
-    url='https://github.com/cadene/pretrained-models.pytorch',  # Optional
+    url='https://github.com/jygan/pretrained-models.pytorch2',  # Optional
 
     # This should be your name or the name of the organization which owns the
     # project.
@@ -120,7 +120,7 @@ setup(
     #
     # For an analysis of "install_requires" vs pip's requirements files see:
     # https://packaging.python.org/en/latest/requirements.html
-    install_requires=['torch', 'torchvision', 'munch', 'tqdm'],  # Optional
+    install_requires=['munch', 'tqdm'],  # Optional
 
     # List additional groups of dependencies here (e.g. development
     # dependencies). Users will be able to install these using the "extras"
